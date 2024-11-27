@@ -15,14 +15,17 @@ Extraia o conteúdo do arquivo ZIP para uma pasta no seu computador.
 # 2. Criando o Projeto
 
 ## 2.1. Criar o Projeto Flutter
-No terminal do VSCode, execute:
-flutter create example_client_login
-Abra a pasta do projeto gerado:
-cd example_client_login
+
+No terminal do VSCode, execute: `flutter create example_client_login` 
+
+E abra a pasta do projeto gerado: `cd example_client_login`
+
 2.2. Instalando os Pacotes Necessários
+
 Adicione os pacotes usados no projeto:
 
-flutter_svg: para exibir imagens no formato SVG.
+`flutter_svg`: para exibir imagens no formato SVG.
+
 No terminal, execute:
 
 ```shell
